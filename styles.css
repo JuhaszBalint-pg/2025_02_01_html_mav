@@ -1,0 +1,10 @@
+table, th, td {
+   border-collapse: collapse;
+   text-align: ;
+  
+}
+th, td {
+  background-color: #217a15;
+  font-family: 'Courier New', Courier, monospace;
+}
+
