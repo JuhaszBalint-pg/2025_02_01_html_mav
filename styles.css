@@ -1,12 +1,19 @@
 table, th, td {
    border-collapse: collapse;
    text-align: center;
-   font-size: =100%;
-   
-  
+   font-size: 100%;
+   background-color: #58da47;
 }
-th, td {
-  background-color: #217a15;
+
+th{
+  background-color: #58da47;
   font-family: 'Courier New', Courier, monospace;
 }
 
+#keses {
+  background-color: red;
+}
+
+.sotet {
+  background-color: #751328;
+}
