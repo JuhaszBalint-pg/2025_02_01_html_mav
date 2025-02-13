@@ -1,4 +1,4 @@
-table, th, td {
+table, th, {
    border-collapse: collapse;
    text-align: center;
    font-size: 100%;
@@ -15,5 +15,9 @@ th{
 }
 
 .sotet {
-  background-color: #751328;
+  background-color: #007000;
+}
+
+.vilagos {
+  background-color: #58da47;
 }
