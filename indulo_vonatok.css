@@ -1,0 +1,19 @@
+table, tr, thead, tbody, th{
+    border-collapse: collapse;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    background-color: lightblue;
+    text-align: center;
+}
+
+#keses {
+    background-color: violet;
+}
+
+.paros {
+    background-color: aqua;
+}
+
+.paratlan {
+    background-color: aquamarine;
+}
