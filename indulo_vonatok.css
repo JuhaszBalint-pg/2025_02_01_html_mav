@@ -17,3 +17,7 @@ table, tr, thead, tbody, th{
 .paratlan {
     background-color: aquamarine;
 }
+
+.border {
+    border: solid
+}

@@ -1,8 +1,9 @@
 table, th, tr{
-   border-collapse: collapse;
    text-align: center;
    font-size: 100%;
    background-color: #58da47;
+   border: solid;
+   border-collapse: collapse;
 }
 
 th{
