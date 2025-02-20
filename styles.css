@@ -13,12 +13,27 @@ th{
 
 #keses {
   background-color: red;
+  color: white;
+  border-color: black;
 }
 
 .sotet {
   background-color: #007000;
+  color: white;
+  border-color: black;
 }
 
 .vilagos {
   background-color: #58da47;
+  border-color: black;
+}
+
+body {
+  background-color: darkslategray;
+}
+
+a {
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: whitesmoke
 }

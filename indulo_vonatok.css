@@ -21,3 +21,13 @@ table, tr, thead, tbody, th{
 .border {
     border: solid
 }
+
+body {
+    background-color: darkslategray;
+}
+
+a {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
