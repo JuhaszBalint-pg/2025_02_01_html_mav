@@ -35,5 +35,9 @@ body {
 a {
   font-size: large;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: whitesmoke
+  color: whitesmoke;
+}
+
+a {
+  line-height: 50px;
 }

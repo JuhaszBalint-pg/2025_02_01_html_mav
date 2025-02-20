@@ -15,11 +15,11 @@ table, tr, thead, tbody, th{
 }
 
 .paratlan {
-    background-color: aquamarine;
+    background-color: aquamarine
 }
 
 .border {
-    border: solid
+    border: none
 }
 
 body {
@@ -30,4 +30,25 @@ a {
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: whitesmoke;
+    line-height: 50px;
 }
+
+tbody tr:nth-child(odd) {
+    background-color: aqua;
+}
+
+tbody tr:nth-child(even) {
+    background-color: aquamarine;
+}
+
+thead {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+td {
+    border-style: none;
+}
+
+/* a {
+    line-height: 50px;
+} */
