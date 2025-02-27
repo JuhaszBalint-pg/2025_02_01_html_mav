@@ -41,3 +41,8 @@ a {
 a {
   line-height: 50px;
 }
+
+tbody {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
