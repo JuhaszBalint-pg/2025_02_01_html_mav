@@ -48,7 +48,7 @@ Programtörzsek
 - [x] indulo_vonatok.html
 - [x] styles.css
 - [x] indulo_vonatok.css
-- [] README.md
+- [ ] README.md
 
 
 
