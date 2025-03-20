@@ -1,16 +1,19 @@
-## MÁV utastájékoztató
+# <ins>MÁV utastájékoztató
+### not active database of MÁV; not licensed
 
-<h1> live imdynamic website: </h1> 
+<h1> live <ins> static </ins> website: </h1> 
 
 [MÁV utastájékoztató](https://juhaszbalint-pg.github.io/2025_02_01_html_mav/)
 
-## help provided by:
+## ✂ help provided by:
 
 [W3 schools html guide](https://www.w3schools.com/html/)
 
-## 🍪 noone has the right to use these codes/pages except the ones whom were given permission
+Juhász Szabolcs  ദ്ദി(ᵔᗜᵔ)
 
-## such as:
+### 🍪 noone has the right to use these codes/pages except the ones whom were given permission
+
+## 🖥️ such as:
 
 ```html
 <!DOCTYPE html>
@@ -43,12 +46,41 @@
 </body>
 </html>
 ```
-Programtörzsek
+
+## 🌐 Css Styling:
+```css
+table, tr, thead, tbody, th{
+    border-collapse: collapse;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    background-color: lightblue;
+    text-align: center;
+}
+```
+#### hover; class system between css and html
+
+🅰 font families:
+
+#### ⚬ Times New Roman
+
+#### ⚬ Courier New
+
+### Kész <ins> Programtörzsek
 - [x] index.html
 - [x] indulo_vonatok.html
 - [x] styles.css
 - [x] indulo_vonatok.css
-- [ ] README.md
+- [x] README.md
+
+***These examples were done in the Szent Benedek PG coding class under the supervising of Juhász Szabolcs***
+
+### Steps of <ins> learning and development
+
+- [x] Never give up
+- [x] Stay consistent
+- [ ] Afraid of asking questions
+
+
 
 
 
